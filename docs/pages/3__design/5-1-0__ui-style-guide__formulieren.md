@@ -7,20 +7,25 @@ published: true
 title: formulieren
 ---
 
-## contacformulier op de website
 
 <div class="container">
-<form >
-<div class="form col-4">
-    <div class="form-group ">
-        <label for="your question" class="question"> <em> Your question </em> </label>
-        <input type="text" class="form-control" placeholder=" name">
-    </div>
-    <div class="form-group">
-        <input type="text" class="form-control" placeholder="subject">
-    </div>
-    <div class="form-group">
-        <textarea class="form-control" rows="5" placeholder="question"></textarea>
-    <button type="submit" class="btn btn-secondary d-block mx-auto mt-2 mb-2"> Send </button>
+<p> Er wordt enkel gebruik gemaakt van een formulier in de promowebsite. </p>
+
+<h3> formulier promowebsite </h3>
+    <div class="row">
+        <div class="col-8">
+        <form>
+            <div class="form-group">
+                <input type="email" class="form-control"  aria-describedby="emailHelp" placeholder="enter email">
+            </div>
+            <div class="form-group">
+                <textarea class="form-control" placeholder="type your question or message" rows="5"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary btn-lg"> Send </button>
+        </form>
+        </div>
     </div>
 </div>
+
+    
+    

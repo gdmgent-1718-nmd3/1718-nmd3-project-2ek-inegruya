@@ -8,21 +8,17 @@ title: Typografie
 ---
 
 <div class="container">
-<h2> Noto Sans Bold </h2>
     <div class="row">
-        <div class="col-6">
-            <p> Als font voor de titels gebruiken we Noto Sans Bolde omdat dit een zwaar font is die toch goed leesbaar blijft. 
+        <div class="col-10">
+            <p>
+            Onze font families moeten gebruikt worden op alle mogelijke dragers zodat er een consistente look en feel gecreëerd wordt.<br>
+            </p>
+            <p>
+            <strong> Docker One</strong> moet gebruikt worden voor titels. Terwijl <strong> Dosis </strong> gebruikt wordt bij gewone tekst en tekst in knoppen. Om voor een goed aanéénsluitende look te zorgen, is het belangrijk dat gewichten en corpsgroottes van de fonts op een consistente manier gebruikt worden. Dit wil zeggen voor titels een groter korps dan voor gewone tekst ...
             </p>
         </div>
-    </div>
-<h2> Bahnschrift </h2>
     <div class="row">
-        <img src="../../../images/bahnschrift.JPG">
-    </div>
-    <div class="row">
-        <div class="col-6">
-            <p> Als font voor de tekst wordt er gebruik gemaakt van bahnschrift.bahnschrift heeft niet alleen veel verschillende gewichten maar sluit ook goed aan bij de industriële look die we proberen te creëren.
-            </p>
+        <div class="col-10">
+            <h3> Docker One </h3>
         </div>
     </div>
-</div>

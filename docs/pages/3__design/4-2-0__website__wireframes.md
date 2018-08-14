@@ -6,8 +6,4 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
-![](../../../images/wireframe_website_concepts.png){:.img-fluid}
-
-![](../../../images/wireframe_website_contact.png){:.img-fluid}
-
-![](../../../images/wireframe_website_home.png){:.img-fluid}
+![](../../../images/website_wireframe.png){:.img-fluid}

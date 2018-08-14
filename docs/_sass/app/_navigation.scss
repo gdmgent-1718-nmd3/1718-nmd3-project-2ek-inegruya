@@ -4,7 +4,7 @@ $nav-link-indentation-base: 3rem;
 $nav-link-indentation-level: 1rem;
 
 .gdm-nav {
-  background-color: #004355;
+  background-color: #1c2032;
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
 }
@@ -14,7 +14,7 @@ a {
 }
 
 a:hover {
-  color: #B93F1D;
+  color: #c6313B;
 }
 
 .nav-link {
@@ -26,11 +26,11 @@ a:hover {
     position: absolute;
   }
   &.active {
-    background-color:#B93F1D;
-    color: white ;
+    background-color:#c6313B;
+    color: #e2e1e3 ;
   }
   &.disabled {
-    color: #B93f1d;
+    color: #c6313B;
   }
 }
 

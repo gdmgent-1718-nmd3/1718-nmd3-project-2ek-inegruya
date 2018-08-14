@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
-![](../../../images/sitemap.png){:.img-fluid}
+![](../../../images/website_sitemap.png){:.img-fluid}

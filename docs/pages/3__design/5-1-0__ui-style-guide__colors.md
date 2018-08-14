@@ -8,25 +8,45 @@ title: kleuren
 ---
 
 <div class="container">
-    <h3> Primair kleur </h3>
-    <div class="row mt-2">
-        <div class="col-6 p-4 primary-color">
-            <p class="hex_code text-center"> hex code: #004355 </p>
+    <div class="row">
+        <div class="col-10">
+            <p> De kleuren van de "MIAT Experience" app moeten gebruikt worden voor alle applicaties. Deze kleuren dienen om een "bold" en moderne look te geven aan "MIAT Experience." 
+            </p>
         </div>
     </div>
     <div class="row">
-        <div class="col-6">
-            <p> We hebben gekozen voor een "eagle green" kleur als primaire kleur. Dit wekt het gevoel van de oudere industrie.</p>
-        </div>
+        <table class="table table-bordered">
+            <thead> 
+                <tr> 
+                    <th scope="col" class="color-red"> </th>
+                    <th scope="col" class="color-blue"> </th>
+                    <th scope="col" class="color-white"> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td scope="row"> <strong> Madder Lake Red </strong> </td>
+                    <td> <strong> Dark Gunmetal </strong> </td>
+                    <td> <strong> Platinum </strong> </td>
+                <tr>
+                    <td scope="row"><strong> HEX:</strong> #C6313B </td>
+                    <td> <strong> HEX:</strong> #1C2032 </td>
+                    <td> <strong> HEX:</strong> #E2E1E0 </td>
+                </tr>
+                <tr>
+                    <td scope="row"> <strong> RGB:</strong> 198, 49, 59 </td> 
+                    <td> <strong> RGB: </strong> 28, 32, 50 </td>
+                    <td> <strong> RGB: </strong> 226, 225, 224 </td>
+                </tr>
+                <tr>
+                    <td scope="row"> <strong> CMYK: </strong> 0, 75, 70, 22 </td>
+                    <td> <strong> CMYK:</strong> 43, 35, 0, 80 </td>
+                    <td> <strong> CMYK: </strong> 0, 0, 0, 11 </td>
+                </tr>
+            </tbody>
+        </table>
     </div>
-    <h3 class="mt-3"> Secundaire kleur </h3>
-    <div class="row mt-3">
-        <div class="col-6 p-4 secondary-color">
-            <p class="hex_code text-center"> hex code: #B93F1D </p>
-    </div>
-    <div class="row">
-        <div class="col-6">
-            <p> Als secundaire kleur kozen we voor een dark pastel red kleur omdat dit wat doet denken aan roest, wat op zijn beurt doet denken aan "oude" industrie. </p>
-        </div>
-    </div>
+</div>
 
+
+        

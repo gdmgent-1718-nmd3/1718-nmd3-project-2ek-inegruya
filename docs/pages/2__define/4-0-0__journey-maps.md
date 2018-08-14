@@ -7,6 +7,6 @@ published: true
 title: Journey Maps
 ---
 
-![](../../images/journeymap1.png){:.img-fluid}
+![](../../images/Journeymap1.png){:.img-fluid}
 
-![](../../images/journeymap2.png){:.img-fluid}
+![](../../images/Journeymap2.png){:.img-fluid}

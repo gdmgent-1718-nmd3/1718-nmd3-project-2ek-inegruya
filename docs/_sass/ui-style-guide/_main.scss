@@ -1,11 +1,18 @@
 @charset "UTF-8";
 
 // Font, line-height, and color for body text, headings, and more.
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,800,900i');
+@import url('https://fonts.googleapis.com/Work+Sans:700');
+@import url('https://fonts.googleapis.com/css?family=Dosis');
 
-$font-family-base: 'Raleway', sans-serif;
+$font-family-base: 'Work Sans', sans-serif;
 h1, h2, h3, h4 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-left: 128px;
 }
 
 .hex_code {
@@ -16,21 +23,21 @@ h1, h2, h3, h4 {
 //
 // Color system
 //
-$primair-kleur:   #004355;
+$primair-kleur:   #1C2032;
 $primair-kleur:   $primair-kleur;
 
 // bootstrap
 //
 .btn-primary {
-    background-color: #B93F1D;
+    background-color: #C6313B;
     color: white;
-    border-color: #B93F1D;
+    border-color: #C6313B;
 }
 
 .btn-primary:hover {
-    background-color: #004355;
+    background-color: #1c2032;
     color: white;
-    border-color: #004355;
+    border-color: #1c2032;
 }
 
 .btn-secondary {
@@ -60,9 +67,36 @@ input {
 }
 
 .primary-color {
-    background-color: #004355;
+    background-color: #1C2032;
 }
 
 .secondary-color {
-    background-color: #B93F1D;
+    background-color: #C6313B;
+}
+
+.color-red {
+    background-color: #C6313B;
+}
+
+.color-blue {
+    background-color: #1C2032;
+}
+
+.color-white {
+    background-color: #e2e1e0;
+}
+
+.color-blue, .color-red, .color-white {
+    width: 180px;
+    height: 180px;
+}
+
+.color-name {
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.form-control {
+    border: 1px solid #C6313B;
 }

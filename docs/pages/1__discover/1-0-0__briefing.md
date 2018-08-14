@@ -9,11 +9,10 @@ title: Briefing
 
 Opdracht
 --------
+herwerken van analyse en nieuwe visuals voor smartphone, smartwatch en website.
 
 Teamleden
 ---------
-
- - Jaimy Schatteman
  - Ine Gruyaert
 
 Gekozen Museum: Miat
