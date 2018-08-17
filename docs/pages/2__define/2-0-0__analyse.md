@@ -6,15 +6,55 @@ published: true
 # ─────────────────────
 title: Analyse
 ---
+## Wat is het MIAT?
 
-## Waarom bezoeken mensen het MIAT?
+## Onderzoek
+Er werden in totaal 6 mensen geïnterviewd. De leeftijd variërde tussen de 13 en 63 jaar.
+- 2 studenten
+- een 13 jarige 
+- twee 60 - 63 jarige
+- 1 52 jarige
+
+Toch waren er wat gelijkenissen zoals: de meeste hadden een artistieke achtergrond. 
+
+## Enkele vragen uit de vragenlijst die ze ingevuld hebben:
+### Waarom bezoeken mensen het MIAT?
  - Interesse
  - Schoolbezoek
  - Informatie opzoeken voor schoolopdracht (zelfstandig)
  - Interesse gewekt door reclame
 
-## Wat kan er (nog) beter?
+### Wat kan er (nog) beter?
 Verlichting, meer in het verhaal van het museum zitten, modernere aanpak, betere wegbeschrijving naar het museum toe. Meer interactie met de bezoekers
 
-## Hoe kan de museumervaring verbeterd worden
-Een verhaal vertellen om zo alles/ elk verdiep aan elkaar linken. Extra informatie voorzien voor de geinteresseerden
+### Hoe kan de museumervaring verbeterd worden
+Een verhaal vertellen om zo alles/ elk verdiep aan elkaar linken. Extra informatie voorzien voor de geinteresseerden.
+
+## Conclusies
+### Interviews
+Het doelpubliek van het MIAT zijn scholen, mensen met een interesse voor textiel, industrie en de geschiedenis... 
+Om een app te ontwikkelen voor het MIAT, wil zeggen dat het gebruiksvriendelijk moet zijn voor alle leeftijden.
+
+### Website
+Het MIAT is meer dan een museum. Het is niet alleen een plaats waar mensen met dezelfde interesses kunnen samenkomen in het MIAT Café, maar ook een plaats waar scholen informatie kunnen geven aan kinderen of je kan het museum ook gewoon bezoeken.
+
+### Mijn mening
+Bij het eerste bezoek, was er nog niets van het digitale geïntegreerd in het bezoek (filmpjes). Tijdens het tweede bezoek, was er al veel veranderd. Zo werden er erg veel filmpjes getoond, waren er interactieve opdrachten in verband met textiel ...
+### Usefulness
+In het museum stond alles bij ons eerste bezoek wat door elkaar, daarom zou het handig zijn om een kaart te hebben waarop je kan zien waar bepaalde objecten staan. Zoals een oudere dame tijdens de bevraging had opgemerkt is dat het binnen niet zo goed verlicht was daardoor was het soms moeilijk om de info te lezen. Als je info kan lezen op een scherm, is deze automatisch goed verlicht en kan je het gemakkelijk lezen. Bovendien kan je ook inzoemen waardoor de tekst groter wordt. <br>
+De info over de gebouwen die je kan zien op het vijfde verdiep is niet goed leesbaar. Het zou ook handig kunnen zijn om de info op de app te kunnen lezen. <br>
+Als laatste kan het moeilijk zijn om infobordjes te lezen als er veel volk in het museum staat, het zou dan ook goed van pas komen dat je de info op je scherm te zien krijgt als je bij de machine, het voorwerp staat. Bovendien werken veel van de tentoongestelde machines niet meer, dan kan het ook interessant zijn om filmpjes te laten zien waar men kan zien hoe zo'n machine vroeger werkte.
+
+Opm. Tijdens een ander bezoek werden er veranderingen uitgevoerd waardoor alles beter georganisseerd stond.
+
+### Useability
+Het is belangrijk dat deze app gemakkelijk is in gebruik, dit om alle leeftijden vlot te kunnen laten werken met de app. Bovendien wordt er bij de navigatie rekening gehouden met hoe gebruikers van de smartphone met de duim werken om het toestel te bedienen.
+
+### Desirability
+Als je de app niet gebruikt, zal het museumbezoek ook aangenaam zijn maar het is veel makkelijker om ook de app te gebruiken, zeker als je niet veel tijd zou hebben gepland om het museum te bezoeken. Bovendien moet de app er modern uit zien, met frisse kleuren om zo meer bezoekers de app te laten downloaden. Kleuren beïnvloeden mensen, bewust of onbewust daarom is het belangrijk om een passende kleurencombinatie te zoeken.
+
+### Credibility
+Een professionele uitstraling, een doordachte UX en kwalitatief beeldmateriaal of filmpjes.
+### USP
+**More Than An App** <br>
+Een app die je niet alleen helpt bij je museumbezoek maar bovendien erg gebruiksvriendelijk is. 
