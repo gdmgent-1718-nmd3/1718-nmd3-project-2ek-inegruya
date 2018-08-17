@@ -43,6 +43,13 @@ title: kleuren
                     <td> <strong> CMYK:</strong> 43, 35, 0, 80 </td>
                     <td> <strong> CMYK: </strong> 0, 0, 0, 11 </td>
                 </tr>
+                <tr>
+                    <td colspan="3"> <p class="text-monospace"> <strong> Gebruik</strong> </p> </td>
+                </tr>
+                <tr>
+                    <td> knoppen </td>
+                    <td> Achtergrond of knoppen / iconen </td>
+                    <td> tekst of knoppen </td>
             </tbody>
         </table>
     </div>
