@@ -17,7 +17,7 @@ title: knoppen & iconen
             <thead> 
                 <tr> 
                     <th scope="col"> <img src="../../../images/icon_beacon.png" class="img-fluid"> </th>
-                    <th scope="col"> <img src="../../../images/icon_kompas.PNG" class="img-fluid "> </th>
+                    <th scope="col"> <img src="../../../images/icon_kompas.png" class="img-fluid "> </th>
                     <th scope="col">  <img src="../../../images/icon_zoekwoorden.png" class="img-fluid"> </th>
                 </tr>
             </thead>
@@ -48,7 +48,7 @@ title: knoppen & iconen
             <thead> 
                 <tr> 
                     <th scope="col"> <img src="../../../images/icon_kruis.png" class="img-fluid"> </th>
-                    <th scope="col"> <img src="../../../images/icon_bol.PNG" class="img-fluid icon_bol"> </th>
+                    <th scope="col"> <img src="../../../images/icon_bol.png" class="img-fluid icon_bol"> </th>
                     <th scope="col"> <img src="../../../images/icon_start.png" class="img-fluid"> </th>
                 </tr>
             </thead>
@@ -76,7 +76,7 @@ title: knoppen & iconen
             <thead> 
                 <tr> 
                     <th scope="col"> <img src="../../../images/knop_next.png" class="img-fluid"> </th>
-                    <th scope="col"> <img src="../../../images/icon_start.PNG" class="img-fluid "> </th>
+                    <th scope="col"> <img src="../../../images/icon_start.png" class="img-fluid "> </th>
                     <th scope="col"> <img src="../../../images/icon_pijl.png" class="img-fluid"> </th>
                 </tr>
             </thead>
@@ -104,8 +104,8 @@ title: knoppen & iconen
             <thead> 
                 <tr> 
                     <th scope="col"> <img src="../../../images/icon_menu.png" class="img-fluid icon_menu"> </th>
-                    <th scope="col"> <img src="../../../images/slaover_knop.PNG" class="img-fluid "> </th>
-                    <th scope="col"> <img src="../../../images/nav_knop.PNG" class="img-fluid "> </th>
+                    <th scope="col"> <img src="../../../images/slaover_knop.png" class="img-fluid "> </th>
+                    <th scope="col"> <img src="../../../images/nav_knop.png" class="img-fluid "> </th>
                 </tr>
             </thead>
             <tbody>
